@@ -325,7 +325,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner {
   background-color: #333;
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/newimgs\ \(4\).jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -614,7 +614,7 @@ section.whats-trending .right-image::after {
 section.contact-us {
   margin-top: 60px;
   padding: 60px 0px;
-  background-image: url(../images/contact-us-bg.jpg);
+  background-image: url(../images/newimgs.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
